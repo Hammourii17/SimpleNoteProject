@@ -22,7 +22,7 @@ public class NoteProject {
     // Main method for demonstration purposes
     public static void main(String[] args) {
         NoteProject manager = new NoteProject();
-        manager.addNote("its working! and is here  ");
+        manager.addNote("FirstColl release  ");
         manager.addNote("Second note");
         manager.displayNotes();
     }
